@@ -34,6 +34,7 @@ The analysis tab allows a user to interact with the main hashtags of analysis an
 * library(bslib)
 
     **Note:** `bslib` uses some depreciated functions that remain for backwards compatability.
+    
     **Note:** for `tmap` and `tmaptools` packages, due to a recent bug, you need to install the developer versions from GitHub using:
     
 `remotes::install_github("mtennekes/tmap")`
